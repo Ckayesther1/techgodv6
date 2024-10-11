@@ -1,4 +1,4 @@
-//base by Tech-God
+y//base by Tech-God
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @techgod143
 //Instagram: techgod143
@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
+global.ownernomer = "923448643461"
+global.ownername = "M JIBRAN 💙"
 global.ytname = "YT: SHADOW STARCORE"
 global.socialm = "GitHub: dark-tech-zone"
 global.location = "India, Delhi, city"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
+global.ownernumber = '923448643461'  //creator number
+global.ownername = 'M JIBRAN 💙' //owner name
 global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
